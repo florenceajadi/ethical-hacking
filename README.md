@@ -5,6 +5,7 @@
 - <b>Network Hacking</b>
   - [Changing MAC Address](https://github.com/florenceajadi/changing-mac-address)
   - [Packet-Sniffing](https://github.com/florenceajadi/packet-sniffing)
+  - [WiFi Bands](https://github.com/florenceajadi/wifi-bands)
 
   
 - <b>Logging & Monitoring</b>
