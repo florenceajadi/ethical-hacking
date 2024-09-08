@@ -3,8 +3,8 @@
 <h2>👩🏿‍💻Ethical Hacking Projects:</h2>
 
 - <b>Network Hacking</b>
-  - [Changing MAC Address)](https://github.com/florenceajadi/changing-mac-address)
-
+  - [Changing MAC Address](https://github.com/florenceajadi/changing-mac-address)
+  - [Packet-Sniffing](https://github.com/florenceajadi/packet-sniffing)
 
   
 - <b>Logging & Monitoring</b>
