@@ -6,6 +6,7 @@
   - [Changing MAC Address](https://github.com/florenceajadi/changing-mac-address)
   - [Packet-Sniffing](https://github.com/florenceajadi/packet-sniffing)
   - [WiFi Bands](https://github.com/florenceajadi/wifi-bands)
+  - [Targeting Packet Sniffing](https://github.com/florenceajadi/targeting-packet-sniffing)
 
   
 - <b>Logging & Monitoring</b>
