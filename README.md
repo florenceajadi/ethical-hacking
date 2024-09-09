@@ -7,9 +7,10 @@
   - [Packet-Sniffing](https://github.com/florenceajadi/packet-sniffing)
   - [WiFi Bands](https://github.com/florenceajadi/wifi-bands)
   - [Targeting Packet Sniffing](https://github.com/florenceajadi/targeting-packet-sniffing)
+  - [Deauthentication Attacks](https://github.com/florenceajadi/deauthetication-attacks)
 
   
-- <b>Logging & Monitoring</b>
+- <b>Gaining Access: WEP Cracking</b>
   - [Geo IP Data Ingestion + Log Analytics and Microsoft Sentinel (SIEM) Setup](https://github.com/florenceajadi/geo-ip-data-ingestion-log-analytics-sentinel-setup)
   - [Enable Microsoft Defender for Cloud](https://github.com/florenceajadi/enable-microsoft-defender-for-cloud)
   - [KQL](https://github.com/florenceajadi/kql)
